@@ -3,7 +3,7 @@ class WildflyAsAT821 < Formula
   desc "Managed application runtime for building applications"
   homepage "http://wildfly.org/"
   url "https://download.jboss.org/wildfly/8.2.1.Final/wildfly-8.2.1.Final.tar.gz"
-  sha256 "bf16e2be38fd1476b0e8a0b038f7d41d7ab525fc96c2a1077338814b7442728b"
+  sha256 "845bc298ef9d72cf91b8781286a64554dea353df9d555391720635f32b73717c"
 
   depends_on :java => "1.7+"
 
