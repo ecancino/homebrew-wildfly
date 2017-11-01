@@ -1,12 +1,12 @@
-# Homebrew wildfly 8.2.0
+# Homebrew wildfly 8.2.1.final
 
-This repo is created because **wildfly@8.2.0** does not meet the popularity criteria to be part of homebrew family. 
+This repo is created because **wildfly@8.2.1** does not meet the popularity criteria to be part of homebrew family. 
 
-To install wildfly 8.2.0 final, simply do the following
+To install wildfly 8.2.1 final, simply do the following
 
 ```shell
-brew tap jkevintu/wildfly-8.2.0
-brew install wildfly-as@8.2.0
+brew tap jkevintu/wildfly-8.2.1
+brew install wildfly-as@8.2.1
 ```
 
-And there you go!
+Hope this is helpful :)
