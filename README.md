@@ -6,7 +6,7 @@ To install wildfly 8.2.1 final, simply do the following
 
 ```shell
 brew tap jkevintu/wildfly
-brew install jkevintu/wildfly/wildfly-as@8.2.1
+brew install jkevintu/wildfly/wildfly-as
 ```
 
 Hope this is helpful :)

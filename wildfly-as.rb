@@ -1,5 +1,5 @@
 
-class WildflyAsAT821 < Formula
+class WildflyAs < Formula
   desc "Managed application runtime for building applications"
   homepage "http://wildfly.org/"
   url "https://download.jboss.org/wildfly/8.2.1.Final/wildfly-8.2.1.Final.tar.gz"
