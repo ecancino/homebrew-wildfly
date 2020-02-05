@@ -7,8 +7,8 @@ Because **wildfl** does not meet the popularity criteria to be part of homebrew 
 To install , simply do the following
 
 ```shell
-brew tap jkevintu/homebrew-wildfly
-brew install jkevintu/homebrew-wildfly/wildfly-as-{VERSION_YOU_WANT}
+brew tap ecancino/homebrew-wildfly
+brew install ecancino/homebrew-wildfly/wildfly-as
 ```
 
 Hope this is helpful :)
