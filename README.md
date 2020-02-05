@@ -1,4 +1,4 @@
-# Homebrew wildfly Installation for old version
+# Homebrew wildfly Installation for 17.0.0.Final
 
 
 This repo is created for brew user to download older version of wildly server.
